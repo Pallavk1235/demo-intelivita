@@ -2,8 +2,8 @@
 
 ## Clone the Repository
 ```sh
-git clone <your-repository-link>
-cd <your-project-folder>
+git clone https://github.com/Pallavk1235/demo-intelivita.git
+cd demo-intelivita
 ```
 
 ## Install Dependencies
