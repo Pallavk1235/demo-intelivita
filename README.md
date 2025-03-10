@@ -45,7 +45,7 @@ php artisan db:seed
 php artisan serve
 ```
 
-Now you can access the application at **http://127.0.0.1:8000** 🚀
+Now you can access the application at **http://127.0.0.1:8000/leaderboard** 🚀
 
 Before Click Recalculate
 ![image](https://github.com/user-attachments/assets/5ae0905e-ffd9-461a-b254-5811dbb0bf10)
