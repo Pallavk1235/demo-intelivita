@@ -47,3 +47,9 @@ php artisan serve
 
 Now you can access the application at **http://127.0.0.1:8000** 🚀
 
+Before Click Recalculate
+![image](https://github.com/user-attachments/assets/5ae0905e-ffd9-461a-b254-5811dbb0bf10)
+
+After Recalculate
+![image](https://github.com/user-attachments/assets/dc68fff2-d09a-43b4-92aa-055edeace6c1)
+
